@@ -1,6 +1,5 @@
 body {
     font-family: "Arial","Meiryo",sans-serif;
-    font-size: 20px;
     text-align: center;
 }
 h1 {
@@ -21,4 +20,7 @@ h1 {
 }
 #basic > p {
     font-weight: bold;
+}
+html {
+    font-size: 20px;
 }
